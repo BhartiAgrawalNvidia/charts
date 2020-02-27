@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  egx-location:
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-02-27T22:52:47.402504798Z"
+      description: A Helm chart for Atlas Monitoring Stack
+      digest: d132287fe2c56d58cfddaccbfea9553ffa0fe5dfaf6d5d2a745f752fe6b2a108
+      name: egx-location
+      urls:
+      - https://bhartiagrawalnvidia.github.io/charts/egx-location-1.13.0.tgz
+      version: 1.13.0
