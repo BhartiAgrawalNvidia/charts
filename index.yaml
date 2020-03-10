@@ -10,3 +10,13 @@ entries:
       urls:
       - https://bhartiagrawalnvidia.github.io/charts/egx-location-1.13.0.tgz
       version: 1.13.0
+  gpu-hog:
+    - apiVersion: v1
+      appVersion: "1.0"
+      created: "2020-03-10T22:52:47.402504798Z"
+      description: A Helm chart for a GPU job
+      digest: 49d657a0541b42ceb92cbd8abfb9d36312cc464cdd0d4bf45e3f2b609b4f498f
+      name: gpu-hog
+      urls:
+      - https://bhartiagrawalnvidia.github.io/charts/gpu-hog-0.1.0.tgz
+      version: 0.1.0
