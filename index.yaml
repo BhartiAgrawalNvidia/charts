@@ -3,7 +3,7 @@ entries:
   avalanche:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.858676-07:00"
+    created: "2020-08-28T12:12:48.193509-07:00"
     description: A Helm chart for deloying avalanche prometheus load test to a Kubernetes
       cluster
     digest: 1d7f33fc87ee29051cd80a05bc1978a489e0b3fd03884a2719817a5a4d9ed9dd
@@ -20,7 +20,16 @@ entries:
   egx-location:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.108584-07:00"
+    created: "2020-08-28T12:12:48.463145-07:00"
+    description: A Helm chart for Atlas Monitoring Stack
+    digest: c86abb79c76289ed79a2cf7ffb44efb90257c4740832da1a120045ee088cf3ac
+    name: egx-location
+    urls:
+    - https://bhartiagrawalnvidia.github.io/charts/egx-location-1.73.0.tgz
+    version: 1.73.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-08-28T12:12:48.444896-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: d73216b5a522e9970ad11e2e9c3e8059d882a71381238a32e7bc07c965e3449e
     name: egx-location
@@ -29,7 +38,7 @@ entries:
     version: 1.72.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.089373-07:00"
+    created: "2020-08-28T12:12:48.427148-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 3c8e34da89970d148cdfe58b11c0d09278c334333311628c701029c7bda0b5d0
     name: egx-location
@@ -38,7 +47,7 @@ entries:
     version: 1.65.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.069993-07:00"
+    created: "2020-08-28T12:12:48.409346-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 38ebe2deed86b2094fed6f208e5c450be8b3a6c2d014de9c2ec76b2007851f99
     name: egx-location
@@ -47,7 +56,7 @@ entries:
     version: 1.64.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.05237-07:00"
+    created: "2020-08-28T12:12:48.391401-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: efd7118140981e926616ad4eda4fefb29d8984ade3b251846ec2d18baa88e287
     name: egx-location
@@ -56,7 +65,7 @@ entries:
     version: 1.57.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.036025-07:00"
+    created: "2020-08-28T12:12:48.375987-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 0df8e9b1cc4ea74f9354ffd8b92da1fc7211df937a58c51a8658473c388eddf3
     name: egx-location
@@ -65,7 +74,7 @@ entries:
     version: 1.52.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.020957-07:00"
+    created: "2020-08-28T12:12:48.359121-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 1a7f24baffffea78f30b4166d3f1adf856b3df4aa52961abfc10d5cc1754cf76
     name: egx-location
@@ -74,7 +83,7 @@ entries:
     version: 1.51.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.003966-07:00"
+    created: "2020-08-28T12:12:48.342927-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: afc7e3da3960b223e93da5798a62d8b1a4c657256ad2a75df336f1f803de1c03
     name: egx-location
@@ -83,7 +92,7 @@ entries:
     version: 1.50.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.987834-07:00"
+    created: "2020-08-28T12:12:48.327505-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 5123d584fedc08d8b1617fa5770a0b7a7e54a8d3db5bfb7ec6ac7ddc105b991e
     name: egx-location
@@ -92,7 +101,7 @@ entries:
     version: 1.47.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.972481-07:00"
+    created: "2020-08-28T12:12:48.310206-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 43ebdea4e241bd8e6e531c2c18616071d9abd0e39abbecc4fbc557f151f48f81
     name: egx-location
@@ -101,7 +110,7 @@ entries:
     version: 1.43.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.956223-07:00"
+    created: "2020-08-28T12:12:48.294169-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 391e9c3cad64824b0f86cc78d15b95cb8fd9734dad882911ffce1b61c0bcbee2
     name: egx-location
@@ -110,7 +119,7 @@ entries:
     version: 1.34.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.940327-07:00"
+    created: "2020-08-28T12:12:48.277558-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 2120a830055a37a1effeee5ae1f70d1cfbbbf7b65f63af3febc541b4a6527a6e
     name: egx-location
@@ -119,7 +128,7 @@ entries:
     version: 1.27.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.924902-07:00"
+    created: "2020-08-28T12:12:48.262305-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 5f9ced8e3f1e5d898311f53b7660b0f382f5ae249dd9be420c67f17dd9150dc7
     name: egx-location
@@ -128,7 +137,7 @@ entries:
     version: 1.24.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.909106-07:00"
+    created: "2020-08-28T12:12:48.245368-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 85da1b4ebf625abdd53fc10b2454a2fc738c790226f5ac143795584358d47f6c
     name: egx-location
@@ -137,7 +146,7 @@ entries:
     version: 1.23.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.89365-07:00"
+    created: "2020-08-28T12:12:48.22976-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: b59f677f049552935f560c8c020b5b94ce769fce1313a12a49c94d1945ea2deb
     name: egx-location
@@ -146,7 +155,7 @@ entries:
     version: 1.21.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:57.877003-07:00"
+    created: "2020-08-28T12:12:48.212201-07:00"
     description: A Helm chart for Atlas Monitoring Stack
     digest: 2a8fdb135e63c52e9ebb3f4925ecdfd0e8a3e9fafc3d50eb5ca214a8d1b48ab3
     name: egx-location
@@ -156,11 +165,11 @@ entries:
   gpu-hog:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-08-27T13:25:58.109158-07:00"
+    created: "2020-08-28T12:12:48.463886-07:00"
     description: A Helm chart to produce non-stopping gpu workload
     digest: 49d657a0541b42ceb92cbd8abfb9d36312cc464cdd0d4bf45e3f2b609b4f498f
     name: gpu-hog
     urls:
     - https://bhartiagrawalnvidia.github.io/charts/gpu-hog-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-27T13:25:57.857111-07:00"
+generated: "2020-08-28T12:12:48.191638-07:00"
